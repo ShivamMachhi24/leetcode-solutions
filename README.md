@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1260-shift-2d-grid](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -116,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
