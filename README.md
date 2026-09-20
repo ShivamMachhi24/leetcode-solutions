@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1260-shift-2d-grid](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0078-subsets) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ShivamMachhi24/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
